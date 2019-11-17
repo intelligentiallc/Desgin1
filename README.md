@@ -17,5 +17,5 @@ CSS
 Bootstrap 
 Jquery
 
->this is jut development documentation 
+>This is just development documentation 
 

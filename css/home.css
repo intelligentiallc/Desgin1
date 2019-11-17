@@ -94,6 +94,7 @@
   justify-content: center;
   width: 100%;
   flex-direction: column;
+  text-align: center;
 }
 @media only screen and (max-width: 720px) {
   #panner-50 h1 {
